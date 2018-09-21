@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TioFab.iOS", "TioFab\TioFab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TioFab.UWP", "TioFab\TioFab.UWP\TioFab.UWP.csproj", "{AB9AEB42-D662-4D05-AB92-DD1AAB43CF33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TioFab", "TioFab\TioFab\TioFab.csproj", "{C42AEAD7-7466-46E2-A9CD-45B61E2D2E82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TioFab", "TioFab\TioFab\TioFab.csproj", "{C42AEAD7-7466-46E2-A9CD-45B61E2D2E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
